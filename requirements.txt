@@ -1,0 +1,4 @@
+phue
+pyaudio
+librosa
+numpy
